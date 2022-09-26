@@ -27,7 +27,7 @@ exemple: document.querySelector("class:nth-of-type(1)").classList.add("")
 
     - document.querySelector: La querySelector()méthode renvoie le premier élément qui correspond à un sélecteur CSS.
 
-    - nth-of-type(): donne un ordre à t'es classe .
+    - nth-of-type(): donne un ordre à tes classe .
 
     - classList : renvoie les noms de classe CSS d'un élément
     
