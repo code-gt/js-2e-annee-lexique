@@ -23,7 +23,7 @@ https://developer.mozilla.org/fr/
 Ressources pour l'exercice Youtube :
 
 
-Exercice 1/2
+Exercice 1/2/3
 
 exemple: document.querySelector("class:nth-of-type(1)").classList.add("")
 
@@ -39,7 +39,7 @@ exemple: document.querySelector("class:nth-of-type(1)").classList.add("")
     
     
     
-Exercice 
+Exercice 4
 
     - addEventListener :
     
@@ -48,7 +48,7 @@ Exercice
     
 
 
-Toujours utile quand tu bloc à certaines parties de ton code !
+Toujours utile quand tu bloques à certaines parties de ton code !
 
     - Le console.log :
     
