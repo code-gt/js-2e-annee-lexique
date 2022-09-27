@@ -1,6 +1,6 @@
 # js-2e-annee-lexique
 
-MISE EN FORME COMPLIQUE POUR DES ENFANTS
+MISE EN FORME A REVOIR POUR DES ENFANTS
 
 
 
@@ -9,7 +9,7 @@ MISE EN FORME COMPLIQUE POUR DES ENFANTS
 Ressources utiles pour les curieux !  
 
 
-https://fr.vikidia.org/wiki/JavaScript  ->  A prendre comme un petit lexique.  
+https://fr.vikidia.org/wiki/JavaScript  ->  A prendre comme un petit lexique Javascript.  
 
 https://developer.mozilla.org/fr/
 
@@ -22,7 +22,7 @@ https://www.w3schools.com/jsref/met_document_queryselector.asp
 Ressources pour l'exercice Youtube :
 
 
-Exercice 1/2/3
+Exercices 1/2/3
 
 exemple: document.querySelector("class:nth-of-type()").classList.add("")
 
@@ -43,7 +43,7 @@ Exercice 4
 
     - addEventListener : attache une fonction à appeler chaque fois que l'évènement spécifié est envoyé à la cible.
     
-    - event : recupere un évenement deja existant.  ici l'évenement represente le clique !
+    - event : récupère un évenement deja existant.  ici l'évenement represente le clique !
     
     
 Exercice 5
@@ -56,12 +56,26 @@ Exercice 5
     
  Exercice 6
     
-    -localStorage :  
-
-
-
-
-Toujours utile quand tu bloques à certaines parties de ton code !
-
-    - Le console.log :
+    - Le localStorage c'est quoi ? 
     
+     "Il permet de sauvegarder des données sous forme de chaines de caractères (string)." 
+     
+     
+     Le localStorage va vous permettre de stocker les "iframes" youtube que vous allez choisir.
+
+
+
+
+ 
+ Rappel !
+
+    - Iframe : c'est le code html de votre video. On l'appel aussi une balise HTML.
+    
+    
+    
+
+    Toujours utile quand tu bloques à certaines parties de ton code !
+
+    - Le "console.log()" c'est quoi ?
+    
+        c'est en gros pour debuger votre code. Il s'utilise dans votre code et s'affiche dans la console.
