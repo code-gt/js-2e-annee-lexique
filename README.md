@@ -36,9 +36,9 @@ exemple: document.querySelector("class:nth-of-type()").classList.add("")
 Exercice 4
 
 
-    - addEventListener : Déclenche une fonction à chaque fois que l'évènement est déclenché .
+    - addEventListener : Appelle une fonction à chaque fois que l'évènement est déclenché .
     
-    - event : Récupère un évenement deja existant.  Ici l'évenement represente le clique !
+    - event : Récupère un évenement deja existant.  Ici l'évènement représente le clique !
     
     
 Exercice 5
@@ -67,10 +67,9 @@ Exercice 5
     - Iframe : C'est le code html de votre video. On l'appel aussi une balise HTML.
     
     
-    
 
     Toujours utile quand tu bloques à certaines parties de ton code !
 
     - Le "console.log()" c'est quoi ?
     
-        c'est en gros pour debuger votre code. Il s'utilise dans votre code et s'affiche dans la console.
+        Debuge votre code. Il s'utilise dans votre code et s'affiche dans la console.
