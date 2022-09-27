@@ -33,7 +33,7 @@ exemple: document.querySelector("class:nth-of-type()").classList.add("")
 
     - classList : renvoie les noms de class CSS d'un élément
     
-    - add : permet d'ajouter un nouvel élément ayant une valeur donnée dans ton code,( à toi de la faire ).
+    - add : permet d'ajouter un nouvel élément ayant une valeur donnée dans ton code,( à toi de definir la valeur ).
     
     
     
