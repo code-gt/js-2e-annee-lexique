@@ -6,7 +6,7 @@ MISE EN FORME COMPLIQUE POUR DES ENFANTS
 
 
 
-Ressources utiles  pour les curieux !  
+Ressources utiles pour les curieux !  
 
 
 https://fr.vikidia.org/wiki/JavaScript  ->  A prendre comme un petit lexique.  
@@ -18,38 +18,39 @@ https://www.w3schools.com/jsref/met_document_queryselector.asp
 
 
 
+
 Ressources pour l'exercice Youtube :
 
 
 Exercice 1/2/3
 
-exemple: document.querySelector("class:nth-of-type(1)").classList.add("")
+exemple: document.querySelector("class:nth-of-type()").classList.add("")
 
     - document.querySelector: La querySelector()méthode renvoie le premier élément qui correspond à un sélecteur CSS.
 
-    - nth-of-type(): donne un ordre à tes classe .
+    - nth-of-type(): donne un ordre de classement à tes class.
 
-    - classList : renvoie les noms de classe CSS d'un élément
+    - classList : renvoie les noms de class CSS d'un élément
     
-    - add :
-    
-    
+    - add : permet d'ajouter un nouvel élément ayant une valeur donnée dans ton code,( à toi de la faire ).
     
     
+    
+   
     
 Exercice 4
 
 
-    - addEventListener :
+    - addEventListener : attache une fonction à appeler chaque fois que l'évènement spécifié est envoyé à la cible.
     
-    - event :
+    - event : recupere un évenement deja existant.  ici l'évenement represente le clique !
     
     
 Exercice 5
 
-    - if/else :
+    - if/else :  Une instruction pratique pour dire « Si quelque chose, alors quelque chose ».
     
-    - remove : 
+    - remove :  Supprime l'ensemble des éléments.
     
     
     
