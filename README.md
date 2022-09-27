@@ -42,9 +42,9 @@ exemple: document.querySelector("class:nth-of-type()").classList.add("")
 Exercice 4
 
 
-    - addEventListener : attache une fonction à appeler chaque fois que l'évènement spécifié est envoyé à la cible.
+    - addEventListener : déclenche une fonction à chaque fois que l'évènement est déclenché .
     
-    - event : récupère un évenement deja existant.  ici l'évenement represente le clique !
+    - event : récupère un évenement deja existant.  Ici l'évenement represente le clique !
     
     
 Exercice 5
