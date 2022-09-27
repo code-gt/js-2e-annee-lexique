@@ -72,4 +72,4 @@ Exercice 5
 
     - Le "console.log()" c'est quoi ?
     
-        Debuge votre code. Il s'utilise dans votre code et s'affiche dans la console.
+        Debug votre code. Il s'utilise dans votre code et s'affiche dans la console.
