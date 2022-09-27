@@ -1,11 +1,5 @@
 # js-2e-annee-lexique
 
-MISE EN FORME A REVOIR POUR DES ENFANTS
-
-
-
-
-
 Ressources utiles pour les curieux !  
 
 
@@ -14,7 +8,6 @@ https://fr.vikidia.org/wiki/JavaScript  ->  A prendre comme un petit lexique Jav
 https://developer.mozilla.org/fr/
 
 https://www.w3schools.com/jsref/met_document_queryselector.asp
-
 
 
 
