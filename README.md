@@ -22,11 +22,12 @@ exemple: document.querySelector("class:nth-of-type()").classList.add("")
     - document.querySelector:
     La querySelector() méthode renvoie le premier élément qui correspond à un sélecteur CSS.
 
-    - nth-of-type(): donne un ordre de classement à tes class.
+    - nth-of-type(): Donne un ordre de classement à tes class.
 
-    - classList : renvoie les noms de class CSS d'un élément
+    - classList : Renvoie les noms de class CSS d'un élément
     
-    - add : permet d'ajouter un nouvel élément ayant une valeur donnée dans ton code,( à toi de definir la valeur ).
+    - add : Permet d'ajouter un nouvel élément ayant une valeur donnée dans ton code,
+    (à toi de definir la valeur).
     
     
     
@@ -35,9 +36,9 @@ exemple: document.querySelector("class:nth-of-type()").classList.add("")
 Exercice 4
 
 
-    - addEventListener : déclenche une fonction à chaque fois que l'évènement est déclenché .
+    - addEventListener : Déclenche une fonction à chaque fois que l'évènement est déclenché .
     
-    - event : récupère un évenement deja existant.  Ici l'évenement represente le clique !
+    - event : Récupère un évenement deja existant.  Ici l'évenement represente le clique !
     
     
 Exercice 5
@@ -63,7 +64,7 @@ Exercice 5
  
    RAPPEL !
 
-    - Iframe : c'est le code html de votre video. On l'appel aussi une balise HTML.
+    - Iframe : C'est le code html de votre video. On l'appel aussi une balise HTML.
     
     
     
