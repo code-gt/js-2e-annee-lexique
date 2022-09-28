@@ -1,6 +1,6 @@
 # js-2e-annee-lexique
 
- 📚 Ressources utiles pour les curieux !  
+ 📚💻 Ressources utiles pour les curieux !  
 
 
 https://fr.vikidia.org/wiki/JavaScript  ->  A prendre comme un petit lexique Javascript.  
@@ -15,7 +15,7 @@ https://www.w3schools.com/jsref/met_document_queryselector.asp
 Ressources pour l'exercice Youtube :
 
 
-Exercices 1/2/3
+ ✍️ Exercices 1/2/3
 
 exemple: document.querySelector("class:nth-of-type()").classList.add("")
 
@@ -33,7 +33,7 @@ exemple: document.querySelector("class:nth-of-type()").classList.add("")
     
    
     
-Exercice 4
+✍️ Exercice 4
 
 
     - addEventListener : Appelle une fonction à chaque fois que l'évènement est déclenché .
@@ -41,7 +41,7 @@ Exercice 4
     - event : Récupère un évenement deja existant.  Ici l'évènement représente le clique !
     
     
-Exercice 5
+✍️ Exercice 5
 
     - if/else :  Une instruction pratique pour dire « Si quelque chose, alors quelque chose ».
     
@@ -49,7 +49,7 @@ Exercice 5
     
     
     
- Exercice 6
+✍️ Exercice 6
     
     - Le localStorage c'est quoi ? 
     
