@@ -17,7 +17,7 @@ https://www.w3schools.com/jsref/met_document_queryselector.asp
 
  ✍️ Exercices 1/2/3
 
-exemple: document.querySelector("class:nth-of-type()").classList.add("")
+Exemple ➡ document.querySelector("class:nth-of-type()").classList.add("")
 
     - document.querySelector:
     La querySelector() méthode renvoie le premier élément qui correspond à un sélecteur CSS.
