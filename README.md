@@ -12,7 +12,7 @@ https://www.w3schools.com/jsref/met_document_queryselector.asp
 
 
 
-Ressources pour l'exercice Youtube :
+ 💻🔴 Ressources pour l'exercice Youtube :
 
 
  ✍️ Exercices 1/2/3
