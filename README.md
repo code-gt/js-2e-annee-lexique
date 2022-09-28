@@ -1,6 +1,6 @@
 # js-2e-annee-lexique
 
-Ressources utiles pour les curieux !  
+ 📚 Ressources utiles pour les curieux !  
 
 
 https://fr.vikidia.org/wiki/JavaScript  ->  A prendre comme un petit lexique Javascript.  
@@ -62,7 +62,7 @@ Exercice 5
 
 
  
-   RAPPEL !
+   💡 RAPPEL !
 
     - Iframe : C'est le code html de votre video. On l'appel aussi une balise HTML.
     
